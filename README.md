@@ -5,3 +5,5 @@ A Python application for classifying of 19 species through Web-interface deploye
 |📂 Dataset|
 |:-:|
 |[Drive Link](https://drive.google.com/drive/folders/1ZpDbThK7YUMU0m4CHjq_31g0Bi10i1oS?usp=sharing)|
+
+This model is trained on Teachable Machine.
